@@ -1,0 +1,11 @@
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h1{
+  text-align:center;
+  color:aliceblue;
+  margin-bottom:20px;
+}
