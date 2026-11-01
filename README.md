@@ -1,16 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+EternaLoop ⌚
+Vanilla JS vs React JSX проекты двух типов аналоговых часов. 
+🛠Технологий:
+1.React  компоненты useState(Ячейка хранилища памяти) UseEffect хук побочных эффектов с концепциями setUp(стартом цикла программы) cleanUp(Концом цикличности программы) работает в связке:).
+2.CSS transform, flexbox.
+3.Vite сборщик запускающий проект.
+4.Git контроль версии.
+📝Изучено:
+1.Работа компонентов useState и useEffect.
+2.Передача css переменных изолирующего элемента в стили.
+3.Внешний массив и внутрений цикл map для рендеринга списков.
+4.Настройка git.
